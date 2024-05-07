@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aashisxd101
 - 👀 I’m interested in cybersecurity, pentesting and checking for vulnerabilities
-- 🌱 I’m currently learning data analytics an have completed cybersecurity from Durham college 
+- 🌱 I’m currently learning data analytics and have completed cybersecurity from Durham college 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
